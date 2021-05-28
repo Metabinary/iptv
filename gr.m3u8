@@ -1,3 +1,15 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="ert.gr" tvg-name="EPT 1" tvg-country="GR" tvg-language="Modern Greek" tvg-logo="https://raw.githubusercontent.com/Metabinary/iptv/main/images/ERT_1.png" group-title="",ERT 1 HD
-https://ert-live-bcbs15228.siliconweb.com/media/ert_1_ww/ert_1_ww_1500Kbps.m3u8
+#EXTINF:-1 tvg-id="ert.gr" tvg-name="EPT 1" tvg-country="GR" tvg-language="Modern Greek" tvg-logo="https://raw.githubusercontent.com/Metabinary/iptv/main/images/ERT_1.png" group-title="",EPT 1
+http://ert-live-bcbs15228.siliconweb.com/media/ert_1_ww/ert_1_ww.m3u8
+
+#EXTINF:-1 tvg-id="ert.gr" tvg-name="EPT 2" tvg-country="GR" tvg-language="Modern Greek" tvg-logo="https://raw.githubusercontent.com/Metabinary/iptv/main/images/ERT_2.png" group-title="",EPT 2
+http://ert-live-bcbs15228.siliconweb.com/media/ert_2_ww/ert_2_ww.m3u8
+
+#EXTINF:-1 tvg-id="ert.gr" tvg-name="EPT 3" tvg-country="GR" tvg-language="Modern Greek" tvg-logo="https://raw.githubusercontent.com/Metabinary/iptv/main/images/ERT_3.png" group-title="",EPT 3
+https://ert-live-ert3.siliconweb.com/live/smil:ert3-ww.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ert.gr" tvg-name="EPT SPORTS" tvg-country="GR" tvg-language="Modern Greek" tvg-logo="https://raw.githubusercontent.com/Metabinary/iptv/main/images/ERT_SPORTS.png" group-title="",EPT SPORTS
+http://ert-live-bcbs15228.siliconweb.com/media/ert_sports_ww/ert_sports_ww.m3u8
+
+#EXTINF:-1 tvg-id="ert.gr" tvg-name="EPT WORLD" tvg-country="GR" tvg-language="Modern Greek" tvg-logo="https://raw.githubusercontent.com/Metabinary/iptv/main/images/ERT_WORLD.png" group-title="",EPT WORLD
+https://ert-live-bcbs15228.siliconweb.com/media/ert_world/ert_world.m3u8
