@@ -1,15 +1,36 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="ert.gr" tvg-name="EPT 1" tvg-country="GR" tvg-language="Modern Greek" tvg-logo="https://raw.githubusercontent.com/Metabinary/iptv/main/images/ERT_1.png" group-title="",EPT 1
+#EXTINF:-1 tvg-id="ert.gr" tvg-name="ERT 1" tvg-country="GR" tvg-language="Modern Greek" tvg-logo="https://raw.githubusercontent.com/Metabinary/iptv/main/images/ERT_1.png" group-title="",ERT 1 HD
 http://ert-live-bcbs15228.siliconweb.com/media/ert_1_ww/ert_1_ww.m3u8
 
-#EXTINF:-1 tvg-id="ert.gr" tvg-name="EPT 2" tvg-country="GR" tvg-language="Modern Greek" tvg-logo="https://raw.githubusercontent.com/Metabinary/iptv/main/images/ERT_2.png" group-title="",EPT 2
+#EXTINF:-1 tvg-id="ert.gr" tvg-name="ERT 2" tvg-country="GR" tvg-language="Modern Greek" tvg-logo="https://raw.githubusercontent.com/Metabinary/iptv/main/images/ERT_2.png" group-title="",ERT 2 HD
 http://ert-live-bcbs15228.siliconweb.com/media/ert_2_ww/ert_2_ww.m3u8
 
-#EXTINF:-1 tvg-id="ert.gr" tvg-name="EPT 3" tvg-country="GR" tvg-language="Modern Greek" tvg-logo="https://raw.githubusercontent.com/Metabinary/iptv/main/images/ERT_3.png" group-title="",EPT 3
-http://ert-live-ert3.siliconweb.com/live/smil:ert3-ww.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="ert.gr" tvg-name="ERT 3" tvg-country="GR" tvg-language="Modern Greek" tvg-logo="https://raw.githubusercontent.com/Metabinary/iptv/main/images/ERT_3.png" group-title="",ERT 3 HD
+http://ert-live-ert3.siliconweb.com/live/smil:ert3-ww.smil/chunklist_b1000000.m3u8
 
-#EXTINF:-1 tvg-id="ert.gr" tvg-name="EPT SPORTS" tvg-country="GR" tvg-language="Modern Greek" tvg-logo="https://raw.githubusercontent.com/Metabinary/iptv/main/images/ERT_SPORTS.png" group-title="",EPT SPORTS
+#EXTINF:-1 tvg-id="ert.gr" tvg-name="ERT SPORTS" tvg-country="GR" tvg-language="Modern Greek" tvg-logo="https://raw.githubusercontent.com/Metabinary/iptv/main/images/ERT_SPORTS.png" group-title="",ERT SPORTS HD
 http://ert-live-bcbs15228.siliconweb.com/media/ert_sports_ww/ert_sports_ww.m3u8
 
-#EXTINF:-1 tvg-id="ert.gr" tvg-name="EPT WORLD" tvg-country="GR" tvg-language="Modern Greek" tvg-logo="https://raw.githubusercontent.com/Metabinary/iptv/main/images/ERT_WORLD.png" group-title="",EPT WORLD
+#EXTINF:-1 tvg-id="ert.gr" tvg-name="ERT WORLD" tvg-country="GR" tvg-language="Modern Greek" tvg-logo="https://raw.githubusercontent.com/Metabinary/iptv/main/images/ERT_WORLD.png" group-title="",ERT WORLD HD
 http://ert-live-bcbs15228.siliconweb.com/media/ert_world/ert_world.m3u8
+
+#EXTINF:-1 tvg-id="antenna.gr" tvg-name="ANT1 HD" tvg-country="GR" tvg-language="Modern Greek" tvg-logo="https://raw.githubusercontent.com/Metabinary/iptv/main/images/ANT1.png" group-title="",ANT1 HD
+https://antennalivesp-lh.akamaihd.net/i/live_1@715138/master.m3u8
+
+#EXTINF:-1 tvg-id="alphatv.gr" tvg-name="ALPHA HD" tvg-country="GR" tvg-language="Modern Greek" tvg-logo="https://raw.githubusercontent.com/Metabinary/iptv/main/images/ALPHA.png" group-title="",ALPHA HD
+https://alphalive-i.akamaihd.net/hls/live/682300/live/master.m3u8
+
+#EXTINF:-1 tvg-id="star.gr" tvg-name="STAR HD" tvg-country="GR" tvg-language="Modern Greek" tvg-logo="https://raw.githubusercontent.com/Metabinary/iptv/main/images/START.png" group-title="",STAR HD
+https://livestar.siliconweb.com/media/star1/star1.m3u8
+
+#EXTINF:-1 tvg-id="skaitv.gr" tvg-name="SKAI HD" tvg-country="GR" tvg-language="Modern Greek" tvg-logo="https://raw.githubusercontent.com/Metabinary/iptv/main/images/SKAI.png" group-title="",SKAI HD
+http://skai-live.siliconweb.com/media/cambria4/index_bitrate2000K.m3u8
+
+#EXTINF:-1 tvg-id="megatv.com" tvg-name="MEGA HD" tvg-country="GR" tvg-language="Modern Greek" tvg-logo="https://raw.githubusercontent.com/Metabinary/iptv/main/images/MEGA.png" group-title="",MEGA HD
+https://streamcdnb3-c98db5952cb54b358365984178fb898a.msvdn.net/live/S86713049/gonOwuUacAxM/playlist.m3u8
+
+#EXTINF:-1 tvg-id="tvopen.com" tvg-name="OPEN HD" tvg-country="GR" tvg-language="Modern Greek" tvg-logo="https://raw.githubusercontent.com/Metabinary/iptv/main/images/OPEN.png" group-title="",OPEN HD
+https://liveopencloud.siliconweb.com/1/ZlRza2R6L2tFRnFJ/eWVLSlQx/hls/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="vouli.tv" tvg-name="VOULI TV HD" tvg-country="GR" tvg-language="Modern Greek" tvg-logo="https://raw.githubusercontent.com/Metabinary/iptv/main/images/VOULI.png" group-title="",VOULI TV HD
+https://dev.aftermind.xyz/hls/unitrust/voulitv/index.m3u8?token=8TXWzhY3h6jrzqEqu
