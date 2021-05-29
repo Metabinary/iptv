@@ -34,7 +34,7 @@ http://tv3.streampulse.eu:1935/tilesport/movie2/playlist.m3u8
 #EXTINF:-1 tvg-id="atticatv.gr" tvg-name="ATTICA TV" tvg-country="GR" tvg-language="Modern Greek" tvg-logo="https://raw.githubusercontent.com/Metabinary/iptv/main/images/ATTICATV.png" group-title="Local Channels Athens",ATTICA TV
 https://e-e.cyou:8222/atticatv/atticatv/playlist.m3u8
 #EXTINF:-1 tvg-id="blueskytv.gr" tvg-name="BLUESKY TV" tvg-country="GR" tvg-language="Modern Greek" tvg-logo="https://raw.githubusercontent.com/Metabinary/iptv/main/images/BLUESKYTV.png" group-title="Local Channels Athens",BLUESKY TV
-https://www.dailymotion.com/cdn/live/video/x7z731p.m3u8?sec=vGdi5t5p3ZSmN12oRcOEkYQ9-mku_qeS3SQ6AnTEGTAia2cbFD0opMRGgfnnKzqxpkXghP3_F0AnfclpvD-jeA
+https://www.dailymotion.com/cdn/live/video/x7z731p.m3u8?sec=vGdi5t5p3ZSmN12oRcOEkRAUTVP6Upw4QzTw7pLaZbwlrw2KeWWnUq6y2ppeHO3PXB6eZdfHxJwycJ4PQ1w_qw
 #EXTINF:-1 tvg-id="channel9.gr" tvg-name="CHANNEL 9" tvg-country="GR" tvg-language="Modern Greek" tvg-logo="https://raw.githubusercontent.com/Metabinary/iptv/main/images/CHANNEL9.png" group-title="Local Channels Athens",CHANNEL 9
 https://e-e.cyou:8222/channel9/channel9/playlist.m3u8
 #EXTINF:-1 tvg-id="hightv.gr" tvg-name="HIGH TV" tvg-country="GR" tvg-language="Modern Greek" tvg-logo="https://raw.githubusercontent.com/Metabinary/iptv/main/images/HIGHTV.png" group-title="Local Channels Athens",HIGH TV
