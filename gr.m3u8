@@ -49,3 +49,27 @@ https://video.streams.ovh:1936/egnatiatv/egnatiatv/playlist.m3u8
 https://video.streams.ovh:1936/pellatv/pellatv/playlist.m3u8
 #EXTINF:-1 tvg-id="fm100.gr" tvg-name="TV100" tvg-country="GR" tvg-language="Modern Greek" tvg-logo="https://raw.githubusercontent.com/Metabinary/iptv/main/images/TV100.png" group-title="Local Channels Thessaloniki",TV 100
 https://live.fm100.gr/hls/tv100/index.m3u8
+#EXTINF:-1 tvg-id="tvalfa.gr" tvg-name="ALFA TV" tvg-country="GR" tvg-language="Modern Greek" tvg-logo="https://raw.githubusercontent.com/Metabinary/iptv/main/images/ALFATV.png" group-title="Local Channels Eastern Macedonia and Thrace",ALFA TV
+http://www.hellasnet.tv/rest.live.hn/ws.alf/playlist.m3u8
+#EXTINF:-1 tvg-id="v4.deltatv.gr" tvg-name="DELTA TV" tvg-country="GR" tvg-language="Modern Greek" tvg-logo="https://raw.githubusercontent.com/Metabinary/iptv/main/images/DELTATV.png" group-title="Local Channels Eastern Macedonia and Thrace",DELTA TV
+http://81.171.10.42:554/liveD/DStream.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="diktyotv.gr" tvg-name="DIKTYO TV" tvg-country="GR" tvg-language="Modern Greek" tvg-logo="https://raw.githubusercontent.com/Metabinary/iptv/main/images/DIKTYOTV.png" group-title="Local Channels Eastern Macedonia and Thrace",DIKTYO TV
+https://5d00db0e0fcd5.streamlock.net/7322/7322/playlist.m3u8
+#EXTINF:-1 tvg-id="enachannel.gr" tvg-name="ENA" tvg-country="GR" tvg-language="Modern Greek" tvg-logo="https://raw.githubusercontent.com/Metabinary/iptv/main/images/ENA.png" group-title="Local Channels Eastern Macedonia and Thrace",ENA
+https://e-e.cyou:8222/1c/stream/playlist.m3u8
+#EXTINF:-1 tvg-id="epiloges.tv" tvg-name="EPILOGES TV" tvg-country="GR" tvg-language="Modern Greek" tvg-logo="https://raw.githubusercontent.com/Metabinary/iptv/main/images/EPILOGESTV.png" group-title="Local Channels Eastern Macedonia and Thrace",EPILOGES TV
+https://5d00db0e0fcd5.streamlock.net/7170/7170/playlist.m3u8
+#EXTINF:-1 tvg-id="tvrodopi.gr" tvg-name="RODOPI TV" tvg-country="GR" tvg-language="Modern Greek" tvg-logo="https://raw.githubusercontent.com/Metabinary/iptv/main/images/RODOPITV.png" group-title="Local Channels Eastern Macedonia and Thrace",RODOPI TV
+https://video.connect4.gr/live/tvrodopi/playlist.m3u8
+#EXTINF:-1 tvg-id="topchannelkozani.webnode.gr" tvg-name="TOP CHANNEL" tvg-country="GR" tvg-language="Modern Greek" tvg-logo="https://raw.githubusercontent.com/Metabinary/iptv/main/images/TOPCHANNEL.png" group-title="Local Channels Western Macedonia",TOP CHANNEL
+https://s1.netmax-host.eu:2053/topchannel/topchannel/playlist.m3u8
+#EXTINF:-1 tvg-id="trttv.gr" tvg-name="TRT" tvg-country="GR" tvg-language="Modern Greek" tvg-logo="https://raw.githubusercontent.com/Metabinary/iptv/main/images/TRT.png" group-title="Local Channels Thessaly",TRT
+https://www.hellasnet.tv/rest.live.hn/trt2/playlist.m3u8
+#EXTINF:-1 tvg-id="epirustv1.eu" tvg-name="EPIRUS TV1" tvg-country="GR" tvg-language="Modern Greek" tvg-logo="https://raw.githubusercontent.com/Metabinary/iptv/main/images/EPIRUSTV1.png" group-title="Local Channels Epirus",EPIRUS TV1
+https://e-e.cyou:8222/radioepirus/radioepirus/playlist.m3u8
+#EXTINF:-1 tvg-id="acheloostv.gr" tvg-name="ACHELOOS TV" tvg-country="GR" tvg-language="Modern Greek" tvg-logo="https://raw.githubusercontent.com/Metabinary/iptv/main/images/ACHELOOSTV.png" group-title="Local Channels Central Greece",ACHELOOS TV
+https://srv.viiideo.gr:8443/axeloos/live/playlist.m3u8
+#EXTINF:-1 tvg-id="lepantortv.gr" tvg-name="LEPANTO TV" tvg-country="GR" tvg-language="Modern Greek" tvg-logo="https://raw.githubusercontent.com/Metabinary/iptv/main/images/LEPANTOTV.png" group-title="Local Channels Central Greece",LEPANTO TV
+https://video1.getstreamhosting.com:1936/8390/8390/playlist.m3u8
+#EXTINF:-1 tvg-id="tvstar.gr" tvg-name="STAR CENTRAL" tvg-country="GR" tvg-language="Modern Greek" tvg-logo="https://raw.githubusercontent.com/Metabinary/iptv/main/images/STARCENTRAL.png" group-title="Local Channels Central Greece",STAR CENTRAL
+https://www.dailymotion.com/cdn/live/video/xqjey2.m3u8?sec=d8jnL8Yq9T2gzOOVqJeTMlO-gAg1qnEeDP5r6jlZtjuhfVucsSHxQBYcNSjFEf2k3cuuIj0Afr0xuNEq83dStw
