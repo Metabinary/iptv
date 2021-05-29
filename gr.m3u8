@@ -24,8 +24,8 @@ https://liveopencloud.siliconweb.com/1/ZlRza2R6L2tFRnFJ/eWVLSlQx/hls/live/playli
 #EXTINF:-1 tvg-id="vouli.tv" tvg-name="VOULI TV HD" tvg-country="GR" tvg-language="Modern Greek" tvg-logo="https://raw.githubusercontent.com/Metabinary/iptv/main/images/VOULI.png" group-title="Public National Channels",VOULI TV HD
 https://dev.aftermind.xyz/hls/unitrust/voulitv/index.m3u8?token=8TXWzhY3h6jrzqEqu
 #EXTINF:-1 tvg-id="action24.gr" tvg-name="ACTION24" tvg-country="GR" tvg-language="Modern Greek" tvg-logo="https://raw.githubusercontent.com/Metabinary/iptv/main/images/ACTION24.png" group-title="Local Channels Athens",ACTION24
-https://www.dailymotion.com/cdn/live/video/x61fbhs.m3u8?sec=2v9bBah57k6g_wr8VVJC8-EH4covTDHPO-MO16Y8gZxhgt6q2XxGNR9A7VQTRZK_Sgi25Wklq5EwSVqAvCprPg
-#EXTINF:-1 tvg-id="epsilontv.gr" tvg-name="EPSILON TV" tvg-country="GR" tvg-language="Modern Greek" tvg-logo="https://raw.githubusercontent.com/Metabinary/iptv/main/images/EPSILONTV.png" group-title="Local Channels Athens",ACTION24
+https://www.dailymotion.com/cdn/live/video/x61fbhs.m3u8?sec=2v9bBah57k6g_wr8VVJC88Nelno1c4rGNLNIG11lGJG1CZ7oCLcfTd24UfXljNHQ44HS2i6CJL8rjvMdKRt7Dg
+#EXTINF:-1 tvg-id="epsilontv.gr" tvg-name="EPSILON TV" tvg-country="GR" tvg-language="Modern Greek" tvg-logo="https://raw.githubusercontent.com/Metabinary/iptv/main/images/EPSILONTV.png" group-title="Local Channels Athens",EPSILON TV
 https://edge1.mystream.gr/video417338/live/playlist.m3u8
 #EXTINF:-1 tvg-id="alerttv.com.gr" tvg-name="ALERT TV" tvg-country="GR" tvg-language="Modern Greek" tvg-logo="https://raw.githubusercontent.com/Metabinary/iptv/main/images/ALERTTV.png" group-title="Local Channels Athens",ALERT TV
 https://itv.streams.ovh/ALEERT/ALEERT/playlist.m3u8
