@@ -1,13 +1,13 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="ert.gr" tvg-name="ERT 1" tvg-country="GR" tvg-language="Modern Greek" tvg-logo="https://raw.githubusercontent.com/Metabinary/iptv/main/images/ERT_1.png" group-title="Public National Channels",ERT 1 HD
+#EXTINF:-1 tvg-id="ert.gr" tvg-name="ERT 1" tvg-country="GR" tvg-language="Modern Greek" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/ERT1_logo_2020.svg/2560px-ERT1_logo_2020.svg.png" group-title="Public National Channels",ERT 1
 http://ert-live-bcbs15228.siliconweb.com/media/ert_1_ww/ert_1_ww.m3u8
-#EXTINF:-1 tvg-id="ert.gr" tvg-name="ERT 2" tvg-country="GR" tvg-language="Modern Greek" tvg-logo="https://raw.githubusercontent.com/Metabinary/iptv/main/images/ERT_2.png" group-title="Public National Channels",ERT 2 HD
+#EXTINF:-1 tvg-id="ert.gr" tvg-name="ERT 2" tvg-country="GR" tvg-language="Modern Greek" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/ERT2_logo_2020.svg/2560px-ERT2_logo_2020.svg.png" group-title="Public National Channels",ERT 2
 http://ert-live-bcbs15228.siliconweb.com/media/ert_2_ww/ert_2_ww.m3u8
-#EXTINF:-1 tvg-id="ert.gr" tvg-name="ERT 3" tvg-country="GR" tvg-language="Modern Greek" tvg-logo="https://raw.githubusercontent.com/Metabinary/iptv/main/images/ERT_3.png" group-title="Public National Channels",ERT 3 HD
+#EXTINF:-1 tvg-id="ert.gr" tvg-name="ERT 3" tvg-country="GR" tvg-language="Modern Greek" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/ERT3_logo_2020.svg/2560px-ERT3_logo_2020.svg.png" group-title="Public National Channels",ERT 3
 http://ert-live-ert3.siliconweb.com/live/smil:ert3-ww.smil/chunklist_b1000000.m3u8
-#EXTINF:-1 tvg-id="ert.gr" tvg-name="ERT SPORTS" tvg-country="GR" tvg-language="Modern Greek" tvg-logo="https://raw.githubusercontent.com/Metabinary/iptv/main/images/ERT_SPORTS.png" group-title="Public National Channels",ERT SPORTS HD
+#EXTINF:-1 tvg-id="ert.gr" tvg-name="ERT SPORTS" tvg-country="GR" tvg-language="Modern Greek" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/ERTSPORTS_logo_2020.svg/2560px-ERTSPORTS_logo_2020.svg.png" group-title="Public National Channels",ERT SPORTS HD
 http://ert-live-bcbs15228.siliconweb.com/media/ert_sports_ww/ert_sports_ww.m3u8
-#EXTINF:-1 tvg-id="ert.gr" tvg-name="ERT WORLD" tvg-country="GR" tvg-language="Modern Greek" tvg-logo="https://raw.githubusercontent.com/Metabinary/iptv/main/images/ERT_WORLD.png" group-title="Public National Channels",ERT WORLD HD
+#EXTINF:-1 tvg-id="ert.gr" tvg-name="ERT WORLD" tvg-country="GR" tvg-language="Modern Greek" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/53/ERT_WORLD_logo.png" group-title="Public National Channels",ERT WORLD HD
 http://ert-live-bcbs15228.siliconweb.com/media/ert_world/ert_world.m3u8
 #EXTINF:-1 tvg-id="antenna.gr" tvg-name="ANT1 HD" tvg-country="GR" tvg-language="Modern Greek" tvg-logo="https://raw.githubusercontent.com/Metabinary/iptv/main/images/ANT1.png" group-title="Private National Channels OTA (Digea)",ANT1 HD
 https://antennalivesp-lh.akamaihd.net/i/live_1@715138/master.m3u8
