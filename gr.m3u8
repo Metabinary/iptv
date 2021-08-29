@@ -1,97 +1,144 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="ert.gr" tvg-name="ERT 1" tvg-country="GR" tvg-language="Modern Greek" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/ERT1_logo_2020.svg/2560px-ERT1_logo_2020.svg.png" group-title="Public National Channels",ERT 1
-http://ert-live-bcbs15228.siliconweb.com/media/ert_1_ww/ert_1_ww.m3u8
+https://ert-live-bcbs15228.siliconweb.com/media/ert_1/ert_1.m3u8
+
 #EXTINF:-1 tvg-id="ert.gr" tvg-name="ERT 2" tvg-country="GR" tvg-language="Modern Greek" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/ERT2_logo_2020.svg/2560px-ERT2_logo_2020.svg.png" group-title="Public National Channels",ERT 2
-http://ert-live-bcbs15228.siliconweb.com/media/ert_2_ww/ert_2_ww.m3u8
+https://ert-live-bcbs15228.siliconweb.com/media/ert_2/ert_2.m3u8
+
 #EXTINF:-1 tvg-id="ert.gr" tvg-name="ERT 3" tvg-country="GR" tvg-language="Modern Greek" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/ERT3_logo_2020.svg/2560px-ERT3_logo_2020.svg.png" group-title="Public National Channels",ERT 3
-http://ert-live-ert3.siliconweb.com/live/smil:ert3-ww.smil/chunklist_b1000000.m3u8
+https://ert-live-bcbs15228.siliconweb.com/media/ert_3/ert_3.m3u8
+
 #EXTINF:-1 tvg-id="ert.gr" tvg-name="ERT SPORTS" tvg-country="GR" tvg-language="Modern Greek" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/ERTSPORTS_logo_2020.svg/2560px-ERTSPORTS_logo_2020.svg.png" group-title="Public National Channels",ERT SPORTS HD
-http://ert-live-bcbs15228.siliconweb.com/media/ert_sports_ww/ert_sports_ww.m3u8
-#EXTINF:-1 tvg-id="ert.gr" tvg-name="ERT WORLD" tvg-country="GR" tvg-language="Modern Greek" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/53/ERT_WORLD_logo.png" group-title="Public National Channels",ERT WORLD HD
-http://ert-live-bcbs15228.siliconweb.com/media/ert_world/ert_world.m3u8
+https://ert-live-bcbs15228.siliconweb.com/media/ert_sports/ert_sports.m3u8
+
+#EXTINF:-1 tvg-id="ert.gr" tvg-name="ERT WORLD" tvg-country="GR" tvg-language="Modern Greek" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/53/ERT_WORLD_logo.png" group-title="Public National Channels",ERT WORLD
+https://ert-live-bcbs15228.siliconweb.com/media/ert_world/ert_world.m3u8
+
 #EXTINF:-1 tvg-id="antenna.gr" tvg-name="ANT1 HD" tvg-country="GR" tvg-language="Modern Greek" tvg-logo="https://raw.githubusercontent.com/Metabinary/iptv/main/images/ANT1.png" group-title="Private National Channels OTA (Digea)",ANT1 HD
 https://antennalivesp-lh.akamaihd.net/i/live_1@715138/master.m3u8
+
 #EXTINF:-1 tvg-id="alphatv.gr" tvg-name="ALPHA HD" tvg-country="GR" tvg-language="Modern Greek" tvg-logo="https://raw.githubusercontent.com/Metabinary/iptv/main/images/ALPHA.png" group-title="Private National Channels OTA (Digea)",ALPHA HD
 https://alphalive-i.akamaihd.net/hls/live/682300/live/master.m3u8
+
 #EXTINF:-1 tvg-id="star.gr" tvg-name="STAR HD" tvg-country="GR" tvg-language="Modern Greek" tvg-logo="https://raw.githubusercontent.com/Metabinary/iptv/main/images/STAR.png" group-title="Private National Channels OTA (Digea)",STAR HD
 https://livestar.siliconweb.com/media/star1/star1.m3u8
+
 #EXTINF:-1 tvg-id="skaitv.gr" tvg-name="SKAI HD" tvg-country="GR" tvg-language="Modern Greek" tvg-logo="https://raw.githubusercontent.com/Metabinary/iptv/main/images/SKAI.png" group-title="Private National Channels OTA (Digea)",SKAI HD
 http://skai-live.siliconweb.com/media/cambria4/index_bitrate2000K.m3u8
+
 #EXTINF:-1 tvg-id="megatv.com" tvg-name="MEGA HD" tvg-country="GR" tvg-language="Modern Greek" tvg-logo="https://raw.githubusercontent.com/Metabinary/iptv/main/images/MEGA.png" group-title="",MEGA HD
 https://streamcdnb3-c98db5952cb54b358365984178fb898a.msvdn.net/live/S86713049/gonOwuUacAxM/playlist.m3u8
+
 #EXTINF:-1 tvg-id="tvopen.com" tvg-name="OPEN HD" tvg-country="GR" tvg-language="Modern Greek" tvg-logo="https://raw.githubusercontent.com/Metabinary/iptv/main/images/OPEN.png" group-title="",OPEN HD
 https://liveopencloud.siliconweb.com/1/ZlRza2R6L2tFRnFJ/eWVLSlQx/hls/live/playlist.m3u8
+
 #EXTINF:-1 tvg-id="vouli.tv" tvg-name="VOULI TV HD" tvg-country="GR" tvg-language="Modern Greek" tvg-logo="https://raw.githubusercontent.com/Metabinary/iptv/main/images/VOULI.png" group-title="Public National Channels",VOULI TV HD
 https://dev.aftermind.xyz/hls/unitrust/voulitv/index.m3u8?token=8TXWzhY3h6jrzqEqu
+
 #EXTINF:-1 tvg-id="action24.gr" tvg-name="ACTION24" tvg-country="GR" tvg-language="Modern Greek" tvg-logo="https://raw.githubusercontent.com/Metabinary/iptv/main/images/ACTION24.png" group-title="Local Channels Athens",ACTION24
 https://www.dailymotion.com/cdn/live/video/x61fbhs.m3u8?sec=2v9bBah57k6g_wr8VVJC88Nelno1c4rGNLNIG11lGJG1CZ7oCLcfTd24UfXljNHQ44HS2i6CJL8rjvMdKRt7Dg
+
 #EXTINF:-1 tvg-id="epsilontv.gr" tvg-name="EPSILON TV" tvg-country="GR" tvg-language="Modern Greek" tvg-logo="https://raw.githubusercontent.com/Metabinary/iptv/main/images/EPSILONTV.png" group-title="Local Channels Athens",EPSILON TV
 https://edge1.mystream.gr/video417338/live/playlist.m3u8
+
 #EXTINF:-1 tvg-id="alerttv.com.gr" tvg-name="ALERT TV" tvg-country="GR" tvg-language="Modern Greek" tvg-logo="https://raw.githubusercontent.com/Metabinary/iptv/main/images/ALERTTV.png" group-title="Local Channels Athens",ALERT TV
 https://itv.streams.ovh/ALEERT/ALEERT/playlist.m3u8
+
 #EXTINF:-1 tvg-id="arttv.info" tvg-name="ART" tvg-country="GR" tvg-language="Modern Greek" tvg-logo="https://raw.githubusercontent.com/Metabinary/iptv/main/images/ART.png" group-title="Local Channels Athens",ART
 http://tv3.streampulse.eu:1935/tilesport/movie2/playlist.m3u8
+
 #EXTINF:-1 tvg-id="atticatv.gr" tvg-name="ATTICA TV" tvg-country="GR" tvg-language="Modern Greek" tvg-logo="https://raw.githubusercontent.com/Metabinary/iptv/main/images/ATTICATV.png" group-title="Local Channels Athens",ATTICA TV
 https://e-e.cyou:8222/atticatv/atticatv/playlist.m3u8
+
 #EXTINF:-1 tvg-id="blueskytv.gr" tvg-name="BLUESKY TV" tvg-country="GR" tvg-language="Modern Greek" tvg-logo="https://raw.githubusercontent.com/Metabinary/iptv/main/images/BLUESKYTV.png" group-title="Local Channels Athens",BLUESKY TV
 https://www.dailymotion.com/cdn/live/video/x7z731p.m3u8?sec=vGdi5t5p3ZSmN12oRcOEkRAUTVP6Upw4QzTw7pLaZbwlrw2KeWWnUq6y2ppeHO3PXB6eZdfHxJwycJ4PQ1w_qw
+
 #EXTINF:-1 tvg-id="channel9.gr" tvg-name="CHANNEL 9" tvg-country="GR" tvg-language="Modern Greek" tvg-logo="https://raw.githubusercontent.com/Metabinary/iptv/main/images/CHANNEL9.png" group-title="Local Channels Athens",CHANNEL 9
 https://e-e.cyou:8222/channel9/channel9/playlist.m3u8
+
 #EXTINF:-1 tvg-id="hightv.gr" tvg-name="HIGH TV" tvg-country="GR" tvg-language="Modern Greek" tvg-logo="https://raw.githubusercontent.com/Metabinary/iptv/main/images/HIGHTV.png" group-title="Local Channels Athens",HIGH TV
 https://live.streams.ovh/hightv/hightv/playlist.m3u8
+
 #EXTINF:-1 tvg-id="kontrachannel.gr" tvg-name="KONTRA" tvg-country="GR" tvg-language="Modern Greek" tvg-logo="https://raw.githubusercontent.com/Metabinary/iptv/main/images/KONTRA.png" group-title="Local Channels Athens",KONTRA
 http://kontralive.siliconweb.com/live/kontratv/playlist.m3u8
+
 #EXTINF:-1 tvg-id="tv4e.gr" tvg-name="4E TV" tvg-country="GR" tvg-language="Modern Greek" tvg-logo="https://raw.githubusercontent.com/Metabinary/iptv/main/images/4ETV.png" group-title="Local Channels Thessaloniki",4E TV 
 http://eu2.tv4e.gr:1935/live/smil:myStream.sdp.smil/playlist.m3u8
+
 #EXTINF:-1 tvg-id="egnatia.tv" tvg-name="EGNATIA TV" tvg-country="GR" tvg-language="Modern Greek" tvg-logo="https://raw.githubusercontent.com/Metabinary/iptv/main/images/EGNATIATV.png" group-title="Local Channels Thessaloniki",EGNATIA TV
 https://video.streams.ovh:1936/egnatiatv/egnatiatv/playlist.m3u8
+
 #EXTINF:-1 tvg-id="pellatv.gr" tvg-name="PELLA TV" tvg-country="GR" tvg-language="Modern Greek" tvg-logo="https://raw.githubusercontent.com/Metabinary/iptv/main/images/PELLATV.jpg" group-title="Local Channels Thessaloniki",PELLA TV
 https://video.streams.ovh:1936/pellatv/pellatv/playlist.m3u8
+
 #EXTINF:-1 tvg-id="fm100.gr" tvg-name="TV100" tvg-country="GR" tvg-language="Modern Greek" tvg-logo="https://raw.githubusercontent.com/Metabinary/iptv/main/images/TV100.png" group-title="Local Channels Thessaloniki",TV 100
 https://live.fm100.gr/hls/tv100/index.m3u8
+
 #EXTINF:-1 tvg-id="tvalfa.gr" tvg-name="ALFA TV" tvg-country="GR" tvg-language="Modern Greek" tvg-logo="https://raw.githubusercontent.com/Metabinary/iptv/main/images/ALFATV.png" group-title="Local Channels Eastern Macedonia and Thrace",ALFA TV
 http://www.hellasnet.tv/rest.live.hn/ws.alf/playlist.m3u8
+
 #EXTINF:-1 tvg-id="v4.deltatv.gr" tvg-name="DELTA TV" tvg-country="GR" tvg-language="Modern Greek" tvg-logo="https://raw.githubusercontent.com/Metabinary/iptv/main/images/DELTATV.png" group-title="Local Channels Eastern Macedonia and Thrace",DELTA TV
 http://81.171.10.42:554/liveD/DStream.sdp/playlist.m3u8
+
 #EXTINF:-1 tvg-id="diktyotv.gr" tvg-name="DIKTYO TV" tvg-country="GR" tvg-language="Modern Greek" tvg-logo="https://raw.githubusercontent.com/Metabinary/iptv/main/images/DIKTYOTV.png" group-title="Local Channels Eastern Macedonia and Thrace",DIKTYO TV
 https://5d00db0e0fcd5.streamlock.net/7322/7322/playlist.m3u8
+
 #EXTINF:-1 tvg-id="enachannel.gr" tvg-name="ENA" tvg-country="GR" tvg-language="Modern Greek" tvg-logo="https://raw.githubusercontent.com/Metabinary/iptv/main/images/ENA.png" group-title="Local Channels Eastern Macedonia and Thrace",ENA
 https://e-e.cyou:8222/1c/stream/playlist.m3u8
+
 #EXTINF:-1 tvg-id="epiloges.tv" tvg-name="EPILOGES TV" tvg-country="GR" tvg-language="Modern Greek" tvg-logo="https://raw.githubusercontent.com/Metabinary/iptv/main/images/EPILOGESTV.png" group-title="Local Channels Eastern Macedonia and Thrace",EPILOGES TV
 https://5d00db0e0fcd5.streamlock.net/7170/7170/playlist.m3u8
+
 #EXTINF:-1 tvg-id="tvrodopi.gr" tvg-name="RODOPI TV" tvg-country="GR" tvg-language="Modern Greek" tvg-logo="https://raw.githubusercontent.com/Metabinary/iptv/main/images/RODOPITV.png" group-title="Local Channels Eastern Macedonia and Thrace",RODOPI TV
 https://video.connect4.gr/live/tvrodopi/playlist.m3u8
+
 #EXTINF:-1 tvg-id="topchannelkozani.webnode.gr" tvg-name="TOP CHANNEL" tvg-country="GR" tvg-language="Modern Greek" tvg-logo="https://raw.githubusercontent.com/Metabinary/iptv/main/images/TOPCHANNEL.png" group-title="Local Channels Western Macedonia",TOP CHANNEL
 https://s1.netmax-host.eu:2053/topchannel/topchannel/playlist.m3u8
+
 #EXTINF:-1 tvg-id="trttv.gr" tvg-name="TRT" tvg-country="GR" tvg-language="Modern Greek" tvg-logo="https://raw.githubusercontent.com/Metabinary/iptv/main/images/TRT.png" group-title="Local Channels Thessaly",TRT
 https://www.hellasnet.tv/rest.live.hn/trt2/playlist.m3u8
+
 #EXTINF:-1 tvg-id="epirustv1.eu" tvg-name="EPIRUS TV1" tvg-country="GR" tvg-language="Modern Greek" tvg-logo="https://raw.githubusercontent.com/Metabinary/iptv/main/images/EPIRUSTV1.png" group-title="Local Channels Epirus",EPIRUS TV1
 https://e-e.cyou:8222/radioepirus/radioepirus/playlist.m3u8
+
 #EXTINF:-1 tvg-id="acheloostv.gr" tvg-name="ACHELOOS TV" tvg-country="GR" tvg-language="Modern Greek" tvg-logo="https://raw.githubusercontent.com/Metabinary/iptv/main/images/ACHELOOSTV.png" group-title="Local Channels Central Greece",ACHELOOS TV
 https://srv.viiideo.gr:8443/axeloos/live/playlist.m3u8
+
 #EXTINF:-1 tvg-id="lepantortv.gr" tvg-name="LEPANTO TV" tvg-country="GR" tvg-language="Modern Greek" tvg-logo="https://raw.githubusercontent.com/Metabinary/iptv/main/images/LEPANTOTV.png" group-title="Local Channels Central Greece",LEPANTO TV
 https://video1.getstreamhosting.com:1936/8390/8390/playlist.m3u8
+
 #EXTINF:-1 tvg-id="tvstar.gr" tvg-name="STAR CENTRAL" tvg-country="GR" tvg-language="Modern Greek" tvg-logo="https://raw.githubusercontent.com/Metabinary/iptv/main/images/STARCENTRAL.png" group-title="Local Channels Central Greece",STAR CENTRAL
 https://www.dailymotion.com/cdn/live/video/xqjey2.m3u8?sec=d8jnL8Yq9T2gzOOVqJeTMlO-gAg1qnEeDP5r6jlZtjuhfVucsSHxQBYcNSjFEf2k3cuuIj0Afr0xuNEq83dStw
+
 #EXTINF:-1 tvg-id="best-tv.gr" tvg-name="BEST TV" tvg-country="GR" tvg-language="Modern Greek" tvg-logo="https://raw.githubusercontent.com/Metabinary/iptv/main/images/BESTTV.png" group-title="Local Channels Peloponnese",BEST TV
 https://s.best-tv.gr/HLS/hls/best/1_2/index.m3u8
+
 #EXTINF:-1 tvg-id="hlektra.gr" tvg-name="ELECTRA TV" tvg-country="GR" tvg-language="Modern Greek" tvg-logo="https://raw.githubusercontent.com/Metabinary/iptv/main/images/ELECTRATV.png" group-title="Local Channels Peloponnese",ELECTRA TV
 https://serv1.livhosting.com:5443/LiveApp/streams/064918158666216168224216.m3u8
+
 #EXTINF:-1 tvg-id="hlektra.gr" tvg-name="IONIAN" tvg-country="GR" tvg-language="Modern Greek" tvg-logo="https://raw.githubusercontent.com/Metabinary/iptv/main/images/IONIAN.png" group-title="Local Channels Peloponnese",IONIAN
 https://stream.ioniantv.gr/ionian/live_abr/playlist.m3u8
+
 #EXTINF:-1 tvg-id="mesogeiostv.gr" tvg-name="MESOGEIOS TV" tvg-country="GR" tvg-language="Modern Greek" tvg-logo="https://raw.githubusercontent.com/Metabinary/iptv/main/images/MESOGEIOSTV.png" group-title="Local Channels Peloponnese",MESOGEIOS TV
 https://e-e.cyou:8222/mesogeiostv/stream/playlist.m3u8
+
 #EXTINF:-1 tvg-id="superb.gr" tvg-name="SUPER B" tvg-country="GR" tvg-language="Modern Greek" tvg-logo="https://raw.githubusercontent.com/Metabinary/iptv/main/images/SUPERB.png" group-title="Local Channels Peloponnese",SUPER B
 https://til.pp.ua:3424/live/superblive.m3u8
+
 #EXTINF:-1 tvg-id="startmediacorfu.gr" tvg-name="START TV" tvg-country="GR" tvg-language="Modern Greek" tvg-logo="https://raw.githubusercontent.com/Metabinary/iptv/main/images/STARTTV.png" group-title="Local Channels Ionian Islands",START TV
 https://live.cast-control.eu/StartMedia/StartMedia/playlist.m3u8
+
 #EXTINF:-1 tvg-id="samiaki.tv" tvg-name="SAMIAKI TV" tvg-country="GR" tvg-language="Modern Greek" tvg-logo="https://raw.githubusercontent.com/Metabinary/iptv/main/images/SAMIAKITV.png" group-title="Local Channels Aegean Islands",SAMIAKI TV
 https://live.cast-control.eu/samiaki/samiaki/playlist.m3u8
+
 #EXTINF:-1 tvg-id="syrostv1.gr" tvg-name="SYROS TV1" tvg-country="GR" tvg-language="Modern Greek" tvg-logo="https://raw.githubusercontent.com/Metabinary/iptv/main/images/SYROSTV1.png" group-title="Local Channels Aegean Islands",SYROS TV1
 http://176.9.123.140:1935/msg116s//msg116s/playlist.m3u8
+
 #EXTINF:-1 tvg-id="irida-webtv.gr" tvg-name="IRIDA TV" tvg-country="GR" tvg-language="Modern Greek" tvg-logo="https://raw.githubusercontent.com/Metabinary/iptv/main/images/IRIDATV.png" group-title="Local Channels Dodecanese",IRIDA TV
 https://www.hellasnet.tv/rest.live.hn/ws.iri/playlist.m3u8
+
 #EXTINF:-1 tvg-id="tvkosmos.gr" tvg-name="KOSMOS TV" tvg-country="GR" tvg-language="Modern Greek" tvg-logo="https://raw.githubusercontent.com/Metabinary/iptv/main/images/KOSMOSTV.png" group-title="Local Channels Dodecanese",KOSMOS TV
 https://5e8dfce185af1.streamlock.net/TvKosmosLive/TvKosmosLive/playlist.m3u8
+
 #EXTINF:-1 tvg-id="tvkosmos.gr" tvg-name="CRETE TV" tvg-country="GR" tvg-language="Modern Greek" tvg-logo="https://raw.githubusercontent.com/Metabinary/iptv/main/images/CRETETV.png" group-title="Local Channels Crete",CRETE TV
 http://live.cretetv.gr:1935/cretetv/myStream/playlist.m3u8
