@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="ert.gr" tvg-name="ERT 1" tvg-country="GR" tvg-language="Modern Greek" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/ERT1_logo_2020.svg/2560px-ERT1_logo_2020.svg.png" group-title="Public National Channels",ERT 1
-https://ert-live-bcbs15228.siliconweb.com/media/ert_1/ert_1.m3u8
+https://ert-live-bcbs15228.siliconweb.com/media/ert_1/ert_1_3Mbps.m3u8
 
 #EXTINF:-1 tvg-id="ert.gr" tvg-name="ERT 2" tvg-country="GR" tvg-language="Modern Greek" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/ERT2_logo_2020.svg/2560px-ERT2_logo_2020.svg.png" group-title="Public National Channels",ERT 2
 https://ert-live-bcbs15228.siliconweb.com/media/ert_2/ert_2.m3u8
